@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    <img src="assets/img/Group 44.png"/>
+    <img src="assets/img/Group 44.png"/><div>hello</div>
   </div>
 </template>
 
